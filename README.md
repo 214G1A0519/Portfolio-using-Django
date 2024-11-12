@@ -3,9 +3,13 @@ This project is a personal portfolio website built with Django, designed to show
 
 # Features
 Home Page: Provides a quick overview and introduction.
+
 About Me: Details background, experience, and personal story.
+
 Recent Works: Highlights recent projects, including descriptions, tech stack, and images.
+
 Technologies : Lists the technologies with brief descriptions.
+
 Contact Me: Allows visitors to reach out through a contact form, with submissions saved in the back-end.
 
 # Tech Stack
