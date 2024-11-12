@@ -14,5 +14,7 @@ Contact Me: Allows visitors to reach out through a contact form, with submission
 
 # Tech Stack
 Backend: Django (Python)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: SQLite (can be configured to use PostgreSQL or MySQL for production)
